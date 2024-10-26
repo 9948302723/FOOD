@@ -1,0 +1,40 @@
+#box{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(spicy-indian-curry-black-bowl-with-steam-spices_1222783-6853.avif); 
+    background-repeat: no-repeat;
+    background-size: 1350px 600px;
+    
+}
+#LORD{
+    text-align: center;
+    padding-top: 120px;
+    font-size: 60px;
+    color: seashell;
+}
+#register{
+    margin-left: 470px;
+
+}
+#register,#login{
+    height: 60px;
+    width: 200px;
+    background-color: purple;
+    font-size: 34px; 
+}
+#register a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+#login a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+#register:hover{
+    background-color: orange;
+}
+#login:hover{
+    background-color: orange;
+}

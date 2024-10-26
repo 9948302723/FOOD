@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#obox{
+    border: solid 1px;
+    height: 650px;
+    background-image: url(turkish-stuffed-eggplants-with-ground-beef-vegetables-baked-with-tomato-sauce_2829-11002.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 630px;
+}
+#navbox{
+    border: solid 1px;
+    height: 50px;
+}
+ul li{
+    border: solid 1px white ;
+    height: 50px;
+    width: 190px;
+    float: left;
+   background-color: blanchedalmond;
+   border-radius: 15px  ;
+   text-align: center;
+   line-height: 50px;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+ul li:hover{
+    background-color: rgb(211, 102, 102);
+}
+#out{
+    border: solid 1px white;
+    height: 610 white;
+}
+#scrolltext{
+    color: yellow;
+    font-size: 50px;
+    text-shadow:3px 3px 4px yellow;
+}
+#welcome{
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 3px 3px 4px  yellow;
+}
+.menubox{
+    border: 1px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+#menu{
+    width: 150px;
+    height: 200px ;
+    text-align: center;
+}
